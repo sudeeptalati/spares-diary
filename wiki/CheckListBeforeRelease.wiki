@@ -3,8 +3,11 @@ Checklist before release of new version.
 /****** CHECKS TO DO WITH CREATION *************/
 
 1. Create serviceall for complete new coustomer.
+
 2. Create serviceall for existing coustomer.
+
 3. Create new customer.
+
 4. Update existing customer information.
 5. Add product for existing customer.
 6. Create new servicecall with existing/new customer in LOGGED state and assign engineer later.
