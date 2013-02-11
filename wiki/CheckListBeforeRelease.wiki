@@ -9,24 +9,39 @@ Checklist before release of new version.
 3. Create new customer.
 
 4. Update existing customer information.
+
 5. Add product for existing customer.
+
 6. Create new servicecall with existing/new customer in LOGGED state and assign engineer later.
+
 7. Change appointment of servicecall from "update serviceall" page.
+
 8. Change appointment of servicecall from "diary" page.
+
 9. Update existing servicecall information.
+
 10. Create newnotification rule for any job status.
+
 11. Change the status of any servicecall to jobstatus in notification and check for email and sms(if applicable).
+
 12. Update any existing notificaion rule and check for email and sms(if applicable).
+
 
 /****** CHECKS TO DO WITH VIEWS *************/
 
 1. Check for diary view with all enineers option.
+
 2. Check for all side links in Setup view.
+
 3. Check for pdf, excel, csv view of servicecall.
+
 4. Check for all reports(with engineer, job status and dates). 
+
 
 /********* FINALLY CHECK FOR UPDATE ***********/
 
 1. Check for update package i.e, place all folders that are changed or added.
+
 2. Check setup.json has option for all the folders in the package.
+
 3. Place all recents/updated protected folders.
