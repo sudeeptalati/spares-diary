@@ -1,6 +1,7 @@
 Checklist before release of new version.
 
 /****** CHECKS TO DO WITH CREATION *************/
+
 1. Create serviceall for complete new coustomer.
 2. Create serviceall for existing coustomer.
 3. Create new customer.
@@ -15,12 +16,14 @@ Checklist before release of new version.
 12. Update any existing notificaion rule and check for email and sms(if applicable).
 
 /****** CHECKS TO DO WITH VIEWS *************/
+
 1. Check for diary view with all enineers option.
 2. Check for all side links in Setup view.
 3. Check for pdf, excel, csv view of servicecall.
 4. Check for all reports(with engineer, job status and dates). 
 
 /********* FINALLY CHECK FOR UPDATE ***********/
+
 1. Check for update package i.e, place all folders that are changed or added.
 2. Check setup.json has option for all the folders in the package.
 3. Place all recents/updated protected folders.
